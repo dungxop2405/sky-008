@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/pastak/docker-heroku-nodejs-opencv-sample#readme",
   "dependencies": {
-    "nan": "^2.0.1",
     "datauri": "^0.8.0",
     "koa": "^1.1.2",
     "koa-body": "^1.4.0",
